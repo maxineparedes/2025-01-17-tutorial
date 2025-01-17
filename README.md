@@ -1,5 +1,9 @@
 # 2025-01-17-tutorial
 # git and github branches 
+- `git push ...` - to the local VC control repos to the remote repos on GitHub.com
+- `git pull ...` - from the remote VC repos on Github to local
+
+
 - `git branch`: creates a new an independent and isolated environment to develop and test new additions as well as fixes to your code
 - `git switch`: moves our position to the indicated branch
 - `git log --oneline --graph --all`: allows you to see all progress (commits and pushes) or all branches and indicates each commit using a *
